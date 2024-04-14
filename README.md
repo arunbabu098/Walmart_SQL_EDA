@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis
+# SQL-Driven EDA: Walmart Sales Analysis
 
 ## About
 
